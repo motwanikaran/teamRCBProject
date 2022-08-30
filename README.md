@@ -1,3 +1,3 @@
 # teamRCBProject
 
-# Run src/test/javateamRCB/RCBTest.java file.
+# Run src/test/java/teamRCB/RCBTest.java file.
